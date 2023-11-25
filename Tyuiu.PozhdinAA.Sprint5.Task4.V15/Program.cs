@@ -30,7 +30,7 @@ namespace Tyuiu.PozhdinAA.Sprint5.Task4.V15
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-            string path = @"C:\Users\xMeT1oRx\source\repos\Tyuiu.PozhdinAA.Sprint5\Tyuiu.PozhdinAA.Sprint5.Task4.V15\bin\Debug\InPutDataFileTask4V15.txt";
+            string path = @"C:\DataSprint5\InPutDataFileTask4V15.txt";
             Console.WriteLine("Данные находятся в файле: " + path);
 
             Console.WriteLine("***************************************************************************");
