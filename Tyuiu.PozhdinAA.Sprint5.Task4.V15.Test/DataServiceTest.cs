@@ -11,7 +11,7 @@ namespace Tyuiu.PozhdinAA.Sprint5.Task4.V15.Test
         [TestMethod]
         public void CheckedExistsFile()
         {
-            string path = @"C:\Users\xMeT1oRx\source\repos\Tyuiu.PozhdinAA.Sprint5\Tyuiu.PozhdinAA.Sprint5.Task4.V15\bin\Debug\InPutDataFileTask4V15.txt";
+            string path = @"C:\DataSprint5\InPutDataFileTask4V15.txt";
             FileInfo fileInfo = new FileInfo(path);
             bool fileExists = fileInfo.Exists;
             bool wait = true;
